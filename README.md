@@ -10,7 +10,7 @@ All notes related to turning my corolla to self driving car using comma AI
  - Learnt some neet techniques when struggling with setting up ssh via github. The way comma appraches this is amazing as well. ( using github keys)
  - my ssh config was setup to use a different key for local ip ( this is also learnt from unix stackexchange)
 
-SSH Config
+### SSH Config
  ```
 Host github.com
   AddKeysToAgent yes
